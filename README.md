@@ -1,24 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=250&amp;section=header&amp;text=maxdhml&amp;fontSize=90&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Réseaux%20%26%20Télécommunications%20·%20Lille%2C%20France&amp;descAlignY=55&amp;descAlign=50&amp;descColor=ffffff" alt="Bannière" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&height=80&lines=maxdhml)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=8892B0&center=true&vCenter=true&width=600&lines=Réseaux+%26+Télécommunications+·+Lille%2C+France;En+recherche+d'alternance+🔍)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxdhml)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@maxdhml.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxdhml)
+
 </div>
-
-<h1 align="center">🔍 En recherche d'alternance</h1>
-
-<p align="center">
-  <em>Passionné par les infrastructures réseau, la cybersécurité et les systèmes télécoms.</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/maxdhml" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contact@maxdhml.fr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/maxdhml" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 ---
 
@@ -37,24 +29,25 @@
 
 <div align="center">
 
-  **🌐 Réseaux &amp; Infrastructure** <br>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
-  <br><br>
+**🌐 Réseaux &amp; Infrastructure**
 
-  **💻 Scripting &amp; Automatisation** <br>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <br><br>
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
-  **☁️ Cloud &amp; Virtualisation** <br>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&amp;logo=vmware&amp;logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&amp;logo=virtualbox&amp;logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure" />
+**💻 Scripting &amp; Automatisation**
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+
+**☁️ Cloud &amp; Virtualisation**
+
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](#)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 
 </div>
 
@@ -79,22 +72,18 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxdhml&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=maxdhml&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00d4ff&amp;fire=00d4ff&amp;currStreakLabel=00d4ff" alt="GitHub Streak" width="48%" />
-</div>
 
-<br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxdhml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff)](https://github.com/maxdhml)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maxdhml&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)](https://github.com/maxdhml)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdhml&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff" alt="Top Languages" width="50%" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxdhml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff)](https://github.com/maxdhml)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxdhml&amp;color=00d4ff&amp;style=for-the-badge&amp;label=VISITES+DU+PROFIL" alt="Profile views" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer" alt="Footer" />
+[![Profile views](https://komarev.com/ghpvc/?username=maxdhml&color=00d4ff&style=for-the-badge&label=VISITES+DU+PROFIL)](#)
+
 </div>
