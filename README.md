@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00d4ff,100:0d1117&amp;height=250&amp;section=header&amp;text=maxdhml&amp;fontSize=80&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=00d4ff&amp;desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&amp;descAlignY=55&amp;descAlign=50&amp;descColor=8892b0" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=250&amp;section=header&amp;text=maxdhml&amp;fontSize=90&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=ffffff&amp;desc=Réseaux%20%26%20Télécommunications%20·%20Lille%2C%20France&amp;descAlignY=55&amp;descAlign=50&amp;descColor=ffffff" alt="Bannière" />
 </div>
 
 <h1 align="center">🔍 En recherche d'alternance</h1>
@@ -96,5 +96,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00d4ff,100:0d1117&amp;height=120&amp;section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=120&amp;section=footer" alt="Footer" />
 </div>
