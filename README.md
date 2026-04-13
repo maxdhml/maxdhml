@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=250&section=header&text=Hey,%20moi%20c'est%20Max%20👋&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=00d4ff&desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&descAlignY=55&descAlign=50&descColor=8892b0" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=250&section=header&text=maxdhml&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=00d4ff&desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&descAlignY=55&descAlign=50&descColor=8892b0" alt="Bannière" />
 </div>
 
 <h1 align="center">🔍 En recherche d'alternance</h1>
@@ -37,20 +37,20 @@
 
 <div align="center">
 
-  **🌐 Réseaux & Infrastructure** <br>
+  **🌐 Réseaux &amp; Infrastructure** <br>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <br><br>
 
-  **💻 Scripting & Automatisation** <br>
+  **💻 Scripting &amp; Automatisation** <br>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br><br>
 
-  **☁️ Cloud & Virtualisation** <br>
+  **☁️ Cloud &amp; Virtualisation** <br>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
