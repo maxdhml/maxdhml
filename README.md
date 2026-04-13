@@ -1,54 +1,44 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Salut,+je+suis+TON_PSEUDO+👋;Développeur+Passionné;Créateur+de+solutions+web" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Transformant+des+lignes+de+code...;...en+exp%C3%A9riences+interactives+%E2%9C%A8)](https://git.io/typing-svg)
 
-<p align="center">
-  Transformant des lignes de code en expériences interactives. <br>
-  Basé en France 🌍
-</p>
+Transformant des lignes de code en expériences interactives.  
+Basé en France 🌍
 
 ---
 
-### 🛠️ Technologies & Outils
+## 🛠️ Technologies & Outils
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,docker,postgres,git,github,vscode&theme=dark" alt="Skills" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,docker,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
-### 🐍 Mon activité GitHub
+## 🔄 Mon activité GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
-### 📈 En quelques chiffres
+## 📊 En quelques chiffres
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=777777&icon_color=3B82F6" alt="Stats" height="150" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=777777" alt="Langs" height="150" />
-
-<br clear="both">
-<br>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ton-profil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ton-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7" alt="Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7" alt="Langs" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![Portfolio](https://img.shields.io/badge/▲_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
+
 </div>
