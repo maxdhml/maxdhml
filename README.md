@@ -6,43 +6,40 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxdhml)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@maxdhml.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/maxdhml](https://www.linkedin.com/in/maxime-duhamel2/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.dhml@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxdhml)
 
 </div>
 
 ---
 
-### 👨‍💻 À propos de moi
+###  À propos de moi
 
-* 📍 Basé à **Lille, France**
-* 🎓 Étudiant en **Réseaux & Télécommunications**
-* 🔍 En recherche d'une **alternance** dans le domaine réseau / telecom / cybersécurité
-* 🌱 En train d'approfondir **Cisco IOS, la virtualisation et la sécurité réseau**
-* 💬 Pose-moi des questions sur **les protocoles réseau, l'administration système et Linux**
-* ⚡ Fun fact : **Je trace chaque paquet comme un détective trace ses suspects 🕵️**
+*  Basé à **Lille, France**
+*  Étudiant en **Réseaux & Télécommunications**
+*  En recherche d'une **alternance** dans le domaine réseau / telecom / cybersécurité
 
 ---
 
-### 🛠️ Ma Stack Technique
+### Ma Stack Technique
 
 <div align="center">
 
-**🌐 Réseaux &amp; Infrastructure**
+** Réseaux &amp; Infrastructure**
 
 [![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
 
-**💻 Scripting &amp; Automatisation**
+** Scripting &amp; Automatisation**
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-**☁️ Cloud &amp; Virtualisation**
+** Cloud &amp; Virtualisation**
 
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](#)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
@@ -53,7 +50,7 @@
 
 ---
 
-### 📡 Protocoles maîtrisés
+### Protocoles maîtrisés
 
 <div align="center">
 
@@ -69,7 +66,7 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### Mes Statistiques GitHub
 
 <div align="center">
 
