@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=250&section=header&text=maxdhml&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=00d4ff&desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&descAlignY=55&descAlign=50&descColor=8892b0" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00d4ff,100:0d1117&amp;height=250&amp;section=header&amp;text=maxdhml&amp;fontSize=80&amp;fontAlignY=38&amp;animation=fadeIn&amp;fontColor=00d4ff&amp;desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&amp;descAlignY=55&amp;descAlign=50&amp;descColor=8892b0" alt="Bannière" />
 </div>
 
 <h1 align="center">🔍 En recherche d'alternance</h1>
@@ -92,9 +92,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxdhml&color=00d4ff&style=for-the-badge&label=VISITES+DU+PROFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=maxdhml&amp;color=00d4ff&amp;style=for-the-badge&amp;label=VISITES+DU+PROFIL" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:00d4ff,100:0d1117&amp;height=120&amp;section=footer" alt="Footer" />
 </div>
