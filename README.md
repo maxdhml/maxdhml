@@ -1,118 +1,100 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=maxdhml&fontSize=80&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Réseaux%20%26%20Télécommunications&descAlignY=60&descSize=20&descColor=8892b0" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%8D+En+recherche+d'alternance;%F0%9F%8C%90+R%C3%A9seaux+%26+T%C3%A9l%C3%A9communications;%F0%9F%93%8D+Lille%2C+France;%F0%9F%9A%80+Always+learning..." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🔍_Alternance-Disponible-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Status" />
-<img src="https://img.shields.io/badge/📍_Localisation-Lille,_France-8892b0?style=for-the-badge&labelColor=0d1117" alt="Location" />
-<img src="https://img.shields.io/badge/🌐_Domaine-Réseaux_%26_Télécoms-0077b6?style=for-the-badge&labelColor=0d1117" alt="Domain" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=250&section=header&text=Hey,%20moi%20c'est%20Max%20👋&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=00d4ff&desc=Réseaux%20%26%20Télécommunications%20·%20Lille,%20France&descAlignY=55&descAlign=50&descColor=8892b0" alt="Bannière" />
 </div>
 
+<h1 align="center">🔍 En recherche d'alternance</h1>
+
+<p align="center">
+  <em>Passionné par les infrastructures réseau, la cybersécurité et les systèmes télécoms.</em>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/maxdhml" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@maxdhml.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/maxdhml" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 ---
 
-## ⚡ À propos de moi
+### 👨‍💻 À propos de moi
 
-```yaml
-name       : maxdhml
-location   : Lille, France 🇫🇷
-formation  : Réseaux & Télécommunications
-status     : 🔍 En recherche d'alternance
-passion    : [Infrastructure, Cybersécurité, Systèmes réseaux]
-learning   : [Administration réseau, Protocoles, Virtualisation]
-```
+* 📍 Basé à **Lille, France**
+* 🎓 Étudiant en **Réseaux & Télécommunications**
+* 🔍 En recherche d'une **alternance** dans le domaine réseau / telecom / cybersécurité
+* 🌱 En train d'approfondir **Cisco IOS, la virtualisation et la sécurité réseau**
+* 💬 Pose-moi des questions sur **les protocoles réseau, l'administration système et Linux**
+* ⚡ Fun fact : **Je trace chaque paquet comme un détective trace ses suspects 🕵️**
 
 ---
 
-## 🛠️ Stack Technique
+### 🛠️ Ma Stack Technique
 
 <div align="center">
 
-**🌐 Réseaux & Infrastructure**<br><br>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  **🌐 Réseaux & Infrastructure** <br>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <br><br>
 
-<br><br>
+  **💻 Scripting & Automatisation** <br>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br><br>
 
-**💻 Outils & Scripting**<br><br>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-
-<br><br>
-
-**☁️ Cloud & Virtualisation**<br><br>
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  **☁️ Cloud & Virtualisation** <br>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📡 Protocoles maîtrisés
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maxdhml&show_icons=true&theme=github_dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdhml&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&border_color=30363d&hide_border=false" alt="Top Langs" />
-
-<br><br>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=maxdhml&theme=github-dark-blue&background=0D1117&border=30363D&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=8892B0&currStreakLabel=00D4FF&sideLabels=8892B0&dates=8892B0" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 🌐 Protocoles & Compétences Réseau
-
-| Couche OSI | Protocoles maîtrisés |
-| :--- | :--- |
+| Couche OSI | Protocoles |
+|:---:|:---|
 | **Couche 2** | Ethernet · VLANs · STP · LACP |
 | **Couche 3** | IP · OSPF · RIP · BGP · NAT |
 | **Couche 4-7** | TCP/UDP · DNS · DHCP · HTTP/S · FTP · SSH |
 | **Sécurité** | ACLs · Firewalls · VPN · IDS/IPS |
 | **Wireless** | Wi-Fi 802.11 · WPA2/3 |
 
+</div>
+
 ---
 
-## 📫 Me contacter
+### 📊 Mes Statistiques GitHub
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdhml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxdhml&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" width="48%" />
+</div>
 
-<a href="https://linkedin.com/in/maxdhml">
-  <img src="https://img.shields.io/badge/LinkedIn-maxdhml-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/maxdhml">
-  <img src="https://img.shields.io/badge/GitHub-maxdhml-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:contact@maxdhml.fr">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<br>
 
-<br><br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdhml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="Top Languages" width="50%" />
+</div>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxdhml&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" alt="Activity Graph" />
-</a>
+---
 
-<br><br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=maxdhml&color=00d4ff&style=for-the-badge&label=VISITES+DU+PROFIL" alt="Profile views" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=maxdhml&color=00d4ff&style=for-the-badge&label=VISITES+DU+PROFIL" alt="Profile views" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=120&section=footer" alt="Footer" />
 </div>
