@@ -4,14 +4,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=maxdhml&fontSize=80&fontColor=00d4ff&fontAlignY=38&animation=fadeIn&desc=Réseaux%20%26%20Télécommunications&descAlignY=60&descSize=20&descColor=8892b0"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%8D+En+recherche+d'alternance;%F0%9F%8C%90+R%C3%A9seaux+%26+T%C3%A9l%C3%A9communications;%F0%9F%93%8D+B%C3%A9thune%2C+France;%F0%9F%9A%80+Always+learning..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=%F0%9F%94%8D+En+recherche+d'alternance;%F0%9F%8C%90+R%C3%A9seaux+%26+T%C3%A9l%C3%A9communications;%F0%9F%93%8D+Lille%2C+France;%F0%9F%9A%80+Always+learning..." alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- BADGES STATUS -->
 ![Status](https://img.shields.io/badge/🔍_Alternance-Disponible-00d4ff?style=for-the-badge&labelColor=0d1117)
-![Location](https://img.shields.io/badge/📍_Localisation-Béthune,_France-8892b0?style=for-the-badge&labelColor=0d1117)
-![Domain](https://img.shields.io/badge/🌐_Domaine-Réseaux_&_Télécoms-0077b6?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/📍_Localisation-Lille,_France-8892b0?style=for-the-badge&labelColor=0d1117)
+![Domain](https://img.shields.io/badge/🌐_Domaine-Réseaux_%26_Télécoms-0077b6?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ```yaml
 name       : maxdhml
-location   : Béthune, France 🇫🇷
+location   : Lille, France 🇫🇷
 formation  : Réseaux & Télécommunications
 status     : 🔍 En recherche d'alternance
 passion    : [Infrastructure, Cybersécurité, Systèmes réseaux]
@@ -38,19 +38,19 @@ learning   : [Administration réseau, Protocoles, Virtualisation]
 
 <div align="center">
 
-### 🌐 Réseaux & Infrastructure
+### 🌐 Réseaux &amp; Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### 💻 Outils & Scripting
+### 💻 Outils &amp; Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### ☁️ Cloud & Virtualisation
+### ☁️ Cloud &amp; Virtualisation
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
