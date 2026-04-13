@@ -1,44 +1,49 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Transformant+des+lignes+de+code...;...en+exp%C3%A9riences+interactives+%E2%9C%A8)](https://git.io/typing-svg)
+# maxdhml
 
-Transformant des lignes de code en expériences interactives.  
-Basé en France 🌍
+**BUT Réseaux & Télécommunications** · Béthune, France  
+🔍 En recherche d'alternance
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maxdhml)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://maxdhml.dev)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ton@email.com)
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Outils
+## Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,docker,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,docker,postgres,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 🔄 Mon activité GitHub
+## GitHub
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxdhml/maxdhml/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maxdhml/maxdhml/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/maxdhml/maxdhml/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
+<br/>
 
-## 📊 En quelques chiffres
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=maxdhml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_title=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdhml&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7&icon_color=4F8EF7" alt="Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F8EF7" alt="Langs" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Portfolio](https://img.shields.io/badge/▲_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://votre-portfolio.com)
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=maxdhml&style=flat-square&color=58a6ff&label=profile+views)
 
 </div>
